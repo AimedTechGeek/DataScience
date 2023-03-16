@@ -1,4 +1,2 @@
 # DataScience
-Learning data science starting from Zero
-Learning python basics
-Python for data science
+Project contents from learning sessions starting from zero (learning python basics) to become an expert ( in Python for data science )
